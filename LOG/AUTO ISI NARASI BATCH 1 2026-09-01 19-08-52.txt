@@ -1,0 +1,17 @@
+﻿AUDIT V14 - 5 BATCH VO1-VO30 - PART BERURUTAN OTOMATIS
+
+Aturan: VO mengikuti urutan Part yang TERSEDIA, bukan nomor Part.
+Part tersedia: Part1, Part2, Part3, Part4, Part5, Part6
+Batch: 1 | VO1-VO6
+Mapping: Part1 -> VO1 + VO2
+Mapping: Part2 -> VO3 + VO4
+Mapping: Part3 -> VO5 + VO6
+Target: Gemini 2.5 Pro Preview TTS
+Berhenti setelah narasi dimasukkan. Tidak memilih voice, tidak Run/Generate, tidak cek durasi, tidak download.
+
+Part 1 | VO1 | TERISI | VO1: narasi berhasil dimasukkan. Tidak memilih voice dan tidak menekan Run/Generate.
+Part 1 | VO2 | TERISI | VO2: narasi berhasil dimasukkan. Tidak memilih voice dan tidak menekan Run/Generate.
+Part 2 | VO3 | TERISI | VO3: narasi berhasil dimasukkan. Tidak memilih voice dan tidak menekan Run/Generate.
+Part 2 | VO4 | TERISI | VO4: narasi berhasil dimasukkan. Tidak memilih voice dan tidak menekan Run/Generate.
+Part 3 | VO5 | TERISI | VO5: narasi berhasil dimasukkan. Tidak memilih voice dan tidak menekan Run/Generate.
+Part 3 | VO6 | TERISI | VO6: narasi berhasil dimasukkan. Tidak memilih voice dan tidak menekan Run/Generate.
